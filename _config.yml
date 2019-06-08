@@ -110,4 +110,4 @@ exclude:
 
 excerpt_separator: ---
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
